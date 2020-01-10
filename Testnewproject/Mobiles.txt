@@ -1,0 +1,24 @@
+Google Pix
+1,41,900.00
+Huawei Mat
+64,911.99
+Cat S61 Ru
+69,999.00
+Redmi Go (
+1,33,308.00
+Smart Watc
+79,999.00
+NOMU S10 I
+38,999.00
+Vertu Sign
+10,729.00
+Apple iPho
+64,999.00
+Samsung Ga
+1,29,370.00
+Apple Ipho
+28,499.00
+Redmi K20 
+6,190.00
+Nokia 7.1 
+21,999.00
